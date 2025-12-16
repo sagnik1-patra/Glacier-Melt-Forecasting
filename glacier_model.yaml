@@ -1,0 +1,16 @@
+features:
+- Mean Elevation
+- Snow Line Elevation
+- Glacier Area
+- Area Exposed
+- Mean Length
+- Mean Depth
+hyperparameters:
+  max_depth: 14
+  min_samples_split: 3
+  n_estimators: 200
+metrics:
+  mse: 0.010556399665875923
+  r2: 0.7503862208904414
+optimizer: Hybrid AIS + CSA
+target: Glacier_Melt_Index
