@@ -1,4 +1,4 @@
-🧊 Smart Glacier Melt & Water Availability Forecasting
+🧊 Smart Glacier Melt & Water Availability Forecasting.
 Hybrid CSA + PSO Optimized Machine Learning Model
 📌 Project Overview
 
